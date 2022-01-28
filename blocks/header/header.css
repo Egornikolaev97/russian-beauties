@@ -1,0 +1,11 @@
+.header {
+    height: 52px;
+    background-color: #2A2C2F;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 28px;
+    padding-right: 48px;
+    padding-left: 48px;
+    position: relative;
+    margin-bottom: 56px;
+}
