@@ -4,3 +4,9 @@
     justify-self: start;
     align-self: end;
 }
+
+@media (min-width: 320px) and (max-width: 768px) {
+    .place__url-heading {
+        margin-left: 16px;
+    }
+}

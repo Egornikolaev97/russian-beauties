@@ -1,5 +1,32 @@
 .place__image {
-    max-width: 460px;
-    max-height: 460px;
-    grid-row: 2 / span 2;
+    width: 100%;
+    /* grid-row: 2 / span 2; */
 }
+
+
+
+ /* @media (min-width: 1024px) and (max-width: 1280px) {
+    .place__image {
+        max-width: 440px;
+        width: 100%
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .place__image {
+        max-width: 340px;
+        width: 100%;
+    }
+}
+
+@media (min-width: 425px) and (max-width: 767px) {
+    .place__image {
+        max-width: 100%;
+    }
+}
+*
+@media (max-width: 425px) {
+    .place__header {
+        max-width: 100%;
+    }
+} */
