@@ -5,23 +5,12 @@
     text-align: center;
 }
 
-@media (min-width: 1024px) and (max-width: 1280px) {
+@media (min-width: 768px) and (max-width: 1279px) {
     .cover {
         max-width: 100%;
     }
 }
 
-@media (min-width: 768px) and (max-width: 1023px) {
-    .cover {
-        max-width: 100%;
-    }
-}
-
-/* @media (min-width: 320) and (max-width: 767px) {
-    .cover {
-        margin-bottom: 64px;
-    }
-} */
 
 
 

@@ -1,11 +1,10 @@
 .place__website {
     max-width: 456px;
-    min-height: 46px;
     justify-self: start;
     align-self: end;
 }
 
-@media (min-width: 320px) and (max-width: 768px) {
+@media (min-width: 320px) and (max-width: 767px) {
     .place__url-heading {
         margin-left: 16px;
     }

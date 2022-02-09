@@ -2,7 +2,7 @@
     color: #fff;
     font-weight: 900;
     font-size: 96px;
-    line-height: 1.1;
+    line-height: 100px;
     text-align: center;
     max-width: 720px;
     margin: 0 auto;
@@ -14,6 +14,7 @@
     .lead__title {
         font-size: calc(40px + (56 + 56 * 0.7 ) * ((100vw - 320px) / 1280));
         margin-bottom: 16px;
+        line-height: 110%;
     }
 }
 

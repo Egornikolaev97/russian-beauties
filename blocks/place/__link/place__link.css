@@ -9,10 +9,10 @@
 }
 
 .place__link:hover {
-    opacity: 0.5;
+    opacity: 0.8;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
     .place__link {
         margin-left: 16px;
     }
