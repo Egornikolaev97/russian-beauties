@@ -2,7 +2,7 @@
 
 ## Описание проекта
 Учебный проект Яндекс.Практикум - адаптивный одностраничный сайт про путешествия по России, созданный по макету Figma. Сайт адаптирован под экраны различных разрешений.
-[Проект на GitHub Pages](https://egornikolaev97.github.io/russian-beauties/)
+[Проект на GitHub Pages](https://egornikolaev97.github.io/russian-places/)
 
 ## Стек
 
